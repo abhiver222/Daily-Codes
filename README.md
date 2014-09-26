@@ -1,4 +1,4 @@
 Daily-Codes
 ===========
 
-Daily practice
+Daily practice makes me perfect
