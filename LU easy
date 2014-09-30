@@ -1,5 +1,4 @@
-#I am getting the error that the elements below the pivot are not zero for
-#the collumns after the second column
+
 
 import numpy as np
 A=np.random.rand(50,50) #i made a random 5x5 matrix
